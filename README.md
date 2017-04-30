@@ -1,7 +1,7 @@
 # Preface #
 What's Melo_skill?
 # List #
-  * [apache](#Apache)
+  * [apache](#$Apache)
   * [我](#我)
   
   
@@ -55,6 +55,6 @@ test
     test
 test
 test
-# Apache #
+# $Apache #
 test
 # 我 #
