@@ -1,5 +1,5 @@
 # Preface #
-What's Melo_skill?
+What's Melo_skill? You guys can comprehend it to my skills in my career. 
 # List #
   * [Android](#android)
   * [Apache](#apache)
