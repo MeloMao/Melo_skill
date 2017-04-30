@@ -2,7 +2,7 @@
 What's Melo_skill?
 # List #
   * [Apache](#Apache)
-  * [译注](#译注)
+  * [Python](#Python)
   
   
   
@@ -57,4 +57,4 @@ test
 test
 # Apache #
 test
-# 译注 #
+# Python #
