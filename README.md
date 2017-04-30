@@ -13,12 +13,12 @@ What's Melo_skill? You guys can comprehend it to my skills in my career, the ski
   * [Java](#java)
   * [JavaScript](#javascript)
   * [JSP](#jsp)
-  * [Linux](#inux)
+  * [Linux](#linux)
   * [Mysql](#mysql)
   * [Oracle](#oracle)
   * [Perl](#perl)
   * [PHP](#php)
-  * [Pyton](#python)
+  * [Python](#python)
   * [Reverse](#reverse)
   * [Ruby](#ruby)
   * [Scraping](#scraping)
@@ -41,7 +41,7 @@ What's Melo_skill? You guys can comprehend it to my skills in my career, the ski
 # perl #
 # php #
 # python #
-# recerse #
+# reverse #
 # ruby #
 # scraping #
 # shell #
