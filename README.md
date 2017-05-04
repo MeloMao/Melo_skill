@@ -27,23 +27,65 @@ What's Melo_skill? You guys can comprehend it to my skills in my career, the ski
 * introduction
 * target
 # apache #
+* introduction
+* target
 # assembly #
+* introduction
+* target
 # c #
+* introduction
+* target
 # css #
+* introduction
+* target
 # english #
+* introduction
+* target
 # github #
+* introduction
+* target
 # hack #
+* introduction
+* target
 # html #
+* introduction
+* target
 # java #
+* introduction
+* target
 # javascript #
+* introduction
+* target
 # jsp #
+* introduction
+* target
 # linux #
+* introduction
+* target
 # mysql #
+* introduction
+* target
 # oracle #
+* introduction
+* target
 # perl #
+* introduction
+* target
 # php #
+* introduction
+* target
 # python #
+* introduction
+* target
 # reverse #
+* introduction
+* target
 # ruby #
+* introduction
+* target
 # scraping #
+* introduction
+* target
 # shell #
+* introduction
+* target
