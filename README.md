@@ -92,7 +92,7 @@ public class HelloWorld {
 # Jsp #
 * introduction
 * target
-* hello world
+* hello world  
 Jsp can use two ways to build hello world program: Html and Java.
 # Linux #
 * introduction
