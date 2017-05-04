@@ -47,7 +47,7 @@ Android's hello world program is rely on Java and Xml, so it's unnecessary to di
 		printf("Hello World!\n");
 	}
 ```
-# Css #
+# CSS #
 * introduction
 * target
 # English #
@@ -99,11 +99,11 @@ document.write("Hello World!");
 </body>
 </html>
 ```
-# Jsp #
+# JSP #
 * introduction
 * target
 * hello world  
-Jsp can use two ways to build hello world program: Html and Java.
+JSP can use two ways to build hello world program: Html and Java.
 # Linux #
 * introduction
 * target
