@@ -26,7 +26,8 @@ What's Melo_skill? You guys can comprehend it to my skills in my career, the ski
 # android #
 * introduction  
 Android is a free and open source operating system based on Linux, mainly used in mobile devices, such as smart phones and tablet PCs, led by Google and the Open Handset Alliance. Now Android Application demand is very large, so many developer chose to develop Android Application, it's a potential market.
-* target
+* target  
+Will, I admit that I have only a basic course in College, and after that, I can build a sample application like a 'helllo world',a simple button or a picture display device. So now maybe I don't have target.
 * hello world
 # apache #
 * introduction
