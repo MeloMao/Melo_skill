@@ -62,6 +62,19 @@ Android's hello world program is rely on Java and Xml, so it's unnecessary to di
 # Html #
 * introduction
 * target
+* hello world
+```javascript
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> First html program</title>
+</head>
+<body>
+<p>hello world</p>
+</body>
+</html>
+```
 # Java #
 * introduction
 * target
