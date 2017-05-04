@@ -116,7 +116,11 @@ Jsp can use two ways to build hello world program: Html and Java.
 # Perl #
 * introduction
 * target
-# Php #
+* hello world
+```
+print "Hello World!"
+```
+# PHP #
 * introduction
 * target
 # Python #
