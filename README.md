@@ -78,6 +78,14 @@ Android's hello world program is rely on Java and Xml, so it's unnecessary to di
 # Java #
 * introduction
 * target
+* hello world
+```javascript
+public class HelloWorld {
+    public static void main(String[] args){
+        System.out.println("Hello World!");
+    }
+}
+```
 # Javascript #
 * introduction
 * target
