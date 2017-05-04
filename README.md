@@ -123,6 +123,17 @@ print "Hello World!"
 # PHP #
 * introduction
 * target
+* hello world
+```
+<html>
+<head>
+<title>First PHP program</title>
+</head>
+<body>
+<?php echo '<p>Hello World</p>'; ?>
+</body>
+</html>
+```
 # Python #
 * introduction
 * target
