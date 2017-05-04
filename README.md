@@ -29,66 +29,66 @@ Android is a free and open source operating system based on Linux, mainly used i
 * target  
 Will, I admit that I have only a basic course in College, and after that, I can build a sample application like a 'helllo world',a simple button or a picture display device. So now maybe I don't have target.
 * hello world
-# apache #
+# Apache #
 * introduction
 * target
-# assembly #
+# Assembly #
 * introduction
 * target
-# c #
+# C #
 * introduction
 * target
-# css #
+# Css #
 * introduction
 * target
-# english #
+# English #
 * introduction
 * target
-# github #
+# Github #
 * introduction
 * target
-# hack #
+# Hack #
 * introduction
 * target
-# html #
+# Html #
 * introduction
 * target
-# java #
+# Java #
 * introduction
 * target
-# javascript #
+# Javascript #
 * introduction
 * target
-# jsp #
+# Jsp #
 * introduction
 * target
-# linux #
+# Linux #
 * introduction
 * target
-# mysql #
+# Mysql #
 * introduction
 * target
-# oracle #
+# Oracle #
 * introduction
 * target
-# perl #
+# Perl #
 * introduction
 * target
-# php #
+# Php #
 * introduction
 * target
-# python #
+# Python #
 * introduction
 * target
-# reverse #
+# Reverse #
 * introduction
 * target
-# ruby #
+# Ruby #
 * introduction
 * target
-# scraping #
+# Scraping #
 * introduction
 * target
-# shell #
+# Shell #
 * introduction
 * target
