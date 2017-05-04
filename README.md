@@ -89,6 +89,10 @@ Android's hello world program is rely on Java and Xml, so it's unnecessary to di
 # Python #
 * introduction
 * target
+* hello world
+```javascript
+print('Hello World!')
+```
 # Reverse #
 * introduction
 * target
