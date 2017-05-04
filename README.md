@@ -86,7 +86,7 @@ public class HelloWorld {
     }
 }
 ```
-# Javascript #
+# JavaScript #
 * introduction
 * target
 * hello world
