@@ -39,15 +39,13 @@ Android's hello world program is rely on Java and Xml, so it's unnecessary to di
 # C #
 * introduction
 * target
-* hello world  
+* hello world
 
-	# nmap -A -T4 scanme.nmap.org
- 
-    #include <stdio.h>
-    main()
-    {
-    printf("Hello World!\n");
-    }
+	#include <stdio.h>
+	main()
+	{
+	printf("Hello World!\n");
+	}
 # Css #
 * introduction
 * target
