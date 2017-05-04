@@ -159,6 +159,6 @@ puts "Hello World!"
 * target
 * hello world
 ```
-#!bin/sh  
+#!/bin/bash  
 echo "Hello World!" 
 ```
