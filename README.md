@@ -40,6 +40,9 @@ Android's hello world program is rely on Java and Xml, so it's unnecessary to di
 * introduction
 * target
 * hello world  
+
+	# nmap -A -T4 scanme.nmap.org
+ 
     #include <stdio.h>
     main()
     {
