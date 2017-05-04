@@ -89,6 +89,16 @@ public class HelloWorld {
 # Javascript #
 * introduction
 * target
+* hello world
+```
+<html>
+<body>
+<script type="text/javascript">
+document.write("Hello World!");
+</script>
+</body>
+</html>
+```
 # Jsp #
 * introduction
 * target
