@@ -41,7 +41,7 @@ Use Apache to be the general server for web configure, just like PHP,JSP or ASP.
 * hello world
 ```
 data segment  
-    output db 'Hello world! $'  
+    output db 'Hello World! $'  
 data ends  
 code segment  
       
