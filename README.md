@@ -34,6 +34,7 @@ Android's hello world program is rely on Java and XML, so it's unnecessary to di
 * introduction  
 Apache is the world's number one Web server software. It can run on almost all of the computer system, because of its cross platform and security is widely used, is one of the most popular Web server software. It's fast, reliable, and can be extended through a simple API to use Perl/Python and other interpreters compiled into the server. Besides, Apache is a tribe's name, a foundation or a type of helicopter's name. 
 * target  
+Use Apache to be the general server for web configure, just like PHP,JSP or ASP. If I wanna do this, I should learn the graphical UI and conf UI.
 # Assembly #
 * introduction
 * target
