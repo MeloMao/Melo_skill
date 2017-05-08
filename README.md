@@ -38,6 +38,7 @@ Use Apache to be the general server for web configure, just like PHP,JSP or ASP.
 # Assembly #
 * introduction
 * target
+It's important for Hack skill, I was learned it a term, I was just 'in door' step. But in the future, I must improve it.
 * hello world
 ```
 data segment  
