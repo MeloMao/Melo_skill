@@ -73,7 +73,7 @@ code ends
 	}
 ```
 # CSS #
-* introduction  
+* introduction  
 CSS(Cascading Style Sheets) is a computer language that is used to represent HTML (an application of the Standard Generalized Markup Language) or XML (a subset of the standard generalized markup language). CSS not only can modify web pages statically, but also can be used to format the elements of the web page dynamically. CSS is able to accurately control the layout of the elements in the web page at the pixel level, support almost all font style, with the ability to edit web objects and model styles.
 * target
 # English #
