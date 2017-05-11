@@ -63,10 +63,7 @@ code ends
 ```
 # C #
 * introduction  
-C language is a general-purpose computer programming language, widely used. The goal of C is to provide a programming language that can be compiled and processed in a simple way, producing a small amount of machine code and running without any running environment support.
-  
-Although the C language provides many low-level processing functions, but still maintain a good characteristic of cross platform, with a standard to write the C language program can be compiled in many computer platforms, and even contains some embedded processors (MCU) and super computer operation platform.  
-In 1980s, in order to avoid the development of manufacturers using the C language grammar differences, by the National Bureau of standards for the C language has developed a complete set of international standard grammar, known as ANSI C, C language as the original standard.
+C language is a general-purpose computer programming language, widely used. The goal of C is to provide a programming language that can be compiled and processed in a simple way, producing a small amount of machine code and running without any running environment support. Although the C language provides many low-level processing functions, but still maintain a good characteristic of cross platform, with a standard to write the C language program can be compiled in many computer platforms, and even contains some embedded processors (MCU) and super computer operation platform. In 1980s, in order to avoid the development of manufacturers using the C language grammar differences, by the National Bureau of standards for the C language has developed a complete set of international standard grammar, known as ANSI C, C language as the original standard.
 * target
 * hello world
 ```javascript
