@@ -30,12 +30,12 @@ Android is a free and open source operating system based on Linux, mainly used i
 Will, I admit that I have only a basic course in College, and after that, I can build a sample application like a 'helllo world', a simple button or a picture display device. So now maybe I don't have target.
 * hello world  
 Android's hello world program is rely on Java and XML, so it's unnecessary to display it.
-# Apache #
+### Apache #
 * introduction  
 Apache is the world's number one Web server software. It can run on almost all of the computer system, because of its cross platform and security is widely used, is one of the most popular Web server software. It's fast, reliable, and can be extended through a simple API to use Perl/Python and other interpreters compiled into the server. Besides, Apache is a tribe's name, a foundation or a type of helicopter's name. 
 * target  
 Use Apache to be the general server for web configure, just like PHP,JSP or ASP. If I wanna do this, I should learn the graphical UI and conf UI.
-# Assembly #
+### Assembly #
 * introduction  
 A
 * target  
@@ -62,7 +62,7 @@ start:
 code ends  
     end start
 ```
-# C #
+### C #
 * introduction  
 C language is a general-purpose computer programming language, widely used. The goal of C is to provide a programming language that can be compiled and processed in a simple way, producing a small amount of machine code and running without any running environment support. Although the C language provides many low-level processing functions, but still maintain a good characteristic of cross platform, with a standard to write the C language program can be compiled in many computer platforms, and even contains some embedded processors (MCU) and super computer operation platform. In 1980s, in order to avoid the development of manufacturers using the C language grammar differences, by the National Bureau of standards for the C language has developed a complete set of international standard grammar, known as ANSI C, C language as the original standard.
 * target
@@ -74,20 +74,20 @@ C language is a general-purpose computer programming language, widely used. The 
 		printf("Hello World!\n");
 	}
 ```
-# CSS #
+### CSS #
 * introduction  
 CSS(Cascading Style Sheets) is a computer language that is used to represent HTML (an application of the Standard Generalized Markup Language) or XML (a subset of the standard generalized markup language). CSS not only can modify web pages statically, but also can be used to format the elements of the web page dynamically. CSS is able to accurately control the layout of the elements in the web page at the pixel level, support almost all font style, with the ability to edit web objects and model styles.
 * target
-# English #
+### English #
 * introduction
 * target
-# Github #
+### Github #
 * introduction
 * target
-# Hack #
+### Hack #
 * introduction
 * target
-# Html #
+## Html #
 * introduction
 * target
 * hello world
@@ -103,7 +103,7 @@ CSS(Cascading Style Sheets) is a computer language that is used to represent HTM
 </body>
 </html>
 ```
-# Java #
+### Java #
 * introduction
 * target
 * hello world
@@ -114,7 +114,7 @@ public class HelloWorld {
     }
 }
 ```
-# JavaScript #
+### JavaScript #
 * introduction
 * target
 * hello world
@@ -127,28 +127,28 @@ document.write("Hello World!");
 </body>
 </html>
 ```
-# JSP #
+### JSP #
 * introduction
 * target
 * hello world  
 JSP can use two ways to build hello world program: Html and Java.
-# Linux #
+### Linux #
 * introduction
 * target
-# Mysql #
+### Mysql #
 * introduction
 * target
-# Oracle #
+### Oracle #
 * introduction
 * target
-# Perl #
+### Perl #
 * introduction
 * target
 * hello world
 ```
 print "Hello World!"
 ```
-# PHP #
+### PHP #
 * introduction
 * target
 * hello world
@@ -162,27 +162,27 @@ print "Hello World!"
 </body>
 </html>
 ```
-# Python #
+### Python #
 * introduction
 * target
 * hello world
 ```javascript
 print('Hello World!')
 ```
-# Reverse #
+### Reverse #
 * introduction
 * target
-# Ruby #
+### Ruby #
 * introduction
 * target
 * hello world
 ```
 puts "Hello World!"
 ```
-# Scraping #
+### Scraping #
 * introduction
 * target
-# Shell #
+### Shell #
 * introduction
 * target
 * hello world
