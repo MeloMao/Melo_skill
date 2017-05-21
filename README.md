@@ -37,7 +37,7 @@ Apache is the world's number one Web server software. It can run on almost all o
 Use Apache to be the general server for web configure, just like PHP,JSP or ASP. If I wanna do this, I should learn the graphical UI and conf UI.
 ### Assembly #
 * introduction  
-Assembly
+Assembly language is a low-level language used in electronic computers, microprocessors, microcontrollers, or other programmable devices, also known as symbolic languages. In assembly language, instead of machine instructions with mnemonic operation code, with the address sign or label instead of instruction or operand address. In different devices, assembly languages correspond to different machine language instruction sets, which are converted into machine instructions by assembly. Generally speaking, specific assembly language and specific machine language instruction set are one-to-one, and different platforms can not be transplanted directly.
 * target  
 It's important for Hack skill, I was learned it a term, I was just 'in door' step. But in the future, I must improve it.
 * hello world
