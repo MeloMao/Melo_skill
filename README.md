@@ -137,7 +137,10 @@ document.write("Hello World!");
 * hello world  
 JSP can use two ways to build hello world program: Html and Java.
 ### Linux #
-* introduction
+* introduction  
+Linux is a free and freely distributed Unix operating system, a multi user, multi tasking, multi thread and multi CPU operating system based on POSIX and UNIX. It can running major UNIX tools, software, applications, and network protocols. It supports 32 bit and 64 bit hardware. Linux inherits the design philosophy of Unix as the core of the network, and is a stable multi-user network operating system.
+The Linux operating system was born in October 5, 1991 (the first time officially announced). Linux has many different versions, but they all use the Linux kernel. Linux can be installed in a variety of computer hardware devices, such as mobile phones, tablet PCs, routers, video game consoles, desktop computers, mainframes and supercomputers.
+Strictly speaking, the word 'Linux', itself represents only the Linux kernel, but in fact, people have become accustomed to using Linux to describe the entire Linux based kernel, and the use of GNU engineering various tools and database operating system.
 * target
 ### Mysql #
 * introduction
