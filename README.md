@@ -41,7 +41,7 @@ Assembly language is a low-level language used in electronic computers, micropro
 * target  
 It's important for Hack skill, I was learned it a term, I was just 'in door' step. But in the future, I must improve it.
 * hello world
-```
+```assembly
 data segment  
     output db 'Hello World! $'  
 data ends  
@@ -68,7 +68,7 @@ C language is a general-purpose computer programming language, widely used. The 
 * target  
 Although the C language I just had a systematic study in the classroom, but C is already the door to learning other languages for me. Before, the teacher said "C is the best first language you learn", I was lucky enough to do it. For example, I used to write an encryption program with Python, but did I write it directly? No, I just used C to convert it, so C is too important for me.
 * hello world
-```javascript
+```c
 	#include <stdio.h>
 	main()
 	{
@@ -96,7 +96,7 @@ GitHub is a managed platform for open source and private software projects, beca
 * introduction
 * target
 * hello world
-```javascript
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -112,7 +112,7 @@ GitHub is a managed platform for open source and private software projects, beca
 * introduction
 * target
 * hello world
-```javascript
+```java
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello World!");
@@ -123,7 +123,7 @@ public class HelloWorld {
 * introduction
 * target
 * hello world
-```
+```js
 <html>
 <body>
 <script type="text/javascript">
@@ -153,14 +153,14 @@ Strictly speaking, the word 'Linux', itself represents only the Linux kernel, bu
 * introduction
 * target
 * hello world
-```
+```perl
 print "Hello World!"
 ```
 ### PHP #
 * introduction
 * target
 * hello world
-```
+```php
 <html>
 <head>
 <title>First PHP program</title>
@@ -174,7 +174,7 @@ print "Hello World!"
 * introduction
 * target
 * hello world
-```javascript
+```python
 print('Hello World!')
 ```
 ### Reverse #
@@ -184,7 +184,7 @@ print('Hello World!')
 * introduction
 * target
 * hello world
-```
+```ruby
 puts "Hello World!"
 ```
 ### Scraping #
@@ -194,7 +194,7 @@ puts "Hello World!"
 * introduction
 * target
 * hello world
-```
+```shell
 #!/bin/bash  
 echo "Hello World!" 
 ```
