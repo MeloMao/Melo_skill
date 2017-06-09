@@ -86,7 +86,8 @@ The evolution of English language from ancient Denmark and Scandinavia peninsula
 Between 19 and twentieth Century, Britain and the United States took the lead in culture, economy, military, politics and Science in the world, making English an international language. Nowadays, English is used as a medium of communication on many international occasions. English is also the most closely related language, and most programming languages are related to English, and with the use of the Internet, English is more widely used. English is one of the working languages of the United nations. Some people think that the lower Scotland dialect is the closest language to English, while others think it is a dialect of english. Scotland, lowland Saxon, Danish, German, Dutch, Afrikaans and English are also very close. With the descent Norman of France in Eleventh Century to conquer the kingdom of England, bringing tens of thousands of French vocabulary and Latin words, greatly enriched English vocabulary, vocabulary is also driven by many native.
 * target
 ### Github #
-* introduction
+* introduction  
+GitHub is a managed platform for open source and private software projects, because it supports Git only as a unique version library format for hosting, so it was named GitHub.
 * target
 ### Hack #
 * introduction
