@@ -78,7 +78,8 @@ Although the C language I just had a systematic study in the classroom, but C is
 ### CSS #
 * introduction  
 CSS(Cascading Style Sheets) is a computer language that is used to represent HTML (an application of the Standard Generalized Markup Language) or XML (a subset of the standard generalized markup language). CSS not only can modify web pages statically, but also can be used to format the elements of the web page dynamically. CSS is able to accurately control the layout of the elements in the web page at the pixel level, support almost all font style, with the ability to edit web objects and model styles.
-* target
+* target  
+This skill just for Html or web front-side, and it likes markdown(but more complex).
 ### English #
 * introduction  
 English is Indo European Germanic West Germanic languages of the language, is the most frequently used official languages (as a native language, first language) is the world's most widely, and is also the official language of many international organizations and the European Union and the Commonwealth countries, with the number of native speakers in the world after third. The number of native speakers of Chinese and spanish.
